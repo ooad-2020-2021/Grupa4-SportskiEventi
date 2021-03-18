@@ -1,4 +1,7 @@
-# Online zakazivanje sportskih termina (Grupa4-SportskiEventi)
+# Sport Court (Grupa4-SportskiEventi)
+
+# Logo:
+![Logo](https://i.imgur.com/6Rc1HSp.png)
 
 # Clanovi:
 - [Muhamed Omerović](https://github.com/momerovic4)  
