@@ -1,10 +1,9 @@
 # Online zakazivanje sportskih termina (Grupa4-SportskiEventi)
-----
+
 ## Clanovi:
 - Muhamed Omerović  
 - Kenan Selimović
 - Adnan Palavra
-----
 
 # Opis teme: 
  Aplikacija sluzi za pregled i rezervisanje terena za razne vrste sportova. Znamo da je jako teško uskladiti i rezervisati baš onaj termin koji vama odgovara zato ova aplikacija olaksava i ubrzava sam proces odabira i rezervisanja termina. Također, pored samog rezervisanja terena u odabranom terminu moguc je i pregled svih sportskih objekata na mapi.
