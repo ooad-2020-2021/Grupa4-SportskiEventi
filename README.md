@@ -15,9 +15,10 @@
 - Mogucnost prijave na sistem sa razlicitim privilegijama (gost, registrovani korisnik i admin)
 - Mogucnost pregleda lokacija terena i termina.
 - Odabir (rezervisanje) sporta, termina i sale u zeljenom terminu.
-- Dodavanje novih sportskih objekata i njiovih speciikacija Editovanje postojecih sportskih objekata.
+- Dodavanje novih sportskih objekata i njihovih specifikacija
+- Editovanje postojecih sportskih objekata.
 - Prikaz sportskih objekata na mapi.
-- Editovanje vec postojecih termin
+- Editovanje vec postojecih termina
 - Mogucnost dodavanja komentara uz zahtjev za rezervisanje termina
 - Automatsko pronalazenje najblizih sala koristenjem GPS usluge
 - Slanje notifikacija korisniku o potencijalnom pomjeranju termina ili potvrđenom terminu
