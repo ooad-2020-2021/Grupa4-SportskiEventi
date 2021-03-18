@@ -1,6 +1,6 @@
 # Online zakazivanje sportskih termina (Grupa4-SportskiEventi)
 
-## Clanovi:
+# Clanovi:
 - Muhamed Omerović  
 - Kenan Selimović
 - Adnan Palavra
