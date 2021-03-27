@@ -11,9 +11,10 @@
 # Opis teme: 
  Aplikacija sluzi za pregled i rezervisanje terena za razne vrste sportova. Znamo da je jako teško uskladiti i rezervisati baš onaj termin koji vama odgovara zato ova aplikacija olaksava i ubrzava sam proces odabira i rezervisanja termina. Također, pored samog rezervisanja terena u odabranom terminu moguc je i pregled svih sportskih objekata na mapi.
 
-# Funkcionalnosti:
+# Funkcionalni zahtjevi:
 - Mogucnost prijave na sistem sa razlicitim privilegijama (gost, registrovani korisnik i admin)
-- Mogucnost pregleda lokacija terena i termina.
+- Mogucnost pregleda lokacija terena.
+- Mogucnost pregleda termina.
 - Odabir (rezervisanje) sporta, termina i sale u zeljenom terminu.
 - Dodavanje novih sportskih objekata i njihovih specifikacija
 - Editovanje postojecih sportskih objekata.
@@ -22,6 +23,15 @@
 - Mogucnost dodavanja komentara uz zahtjev za rezervisanje termina
 - Automatsko pronalazenje najblizih sala koristenjem GPS usluge
 - Slanje notifikacija korisniku o potencijalnom pomjeranju termina ili potvrđenom terminu
+
+# Nefunkcionalni zahtjevi:
+- Responzivan korisnički interfejs na svim uređajima i operativnim sistemima
+- Notifikacije o verifikaciji termina
+- Verifikacija i vlaidacija podataka pri regirstorvanju na sistem
+- Pregled terena po sportovima
+- Pregled terena po terminima
+- Pregled terena po lokaciji
+- Zabranjeni termini rezervacije nakon vremena specificiranog strane admina/vlasnika terena
 
 # Akteri:
 - ### Gost: 
@@ -32,5 +42,3 @@
    ima mogucnosti da doda i izmjeni informacije o sportskom objektu(sali).
 - ### Admin: 
    ima mogucnost da nadgleda cijeli sistem, dodavanje terena, izmjenu informacija o terenu, pregled korisnika i transakcija itd.
-
-##### Readme still in progress...
