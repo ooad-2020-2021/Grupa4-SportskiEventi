@@ -7170,7 +7170,7 @@
 											"top": 427.5,
 											"width": 166,
 											"height": 13,
-											"text": "Validaciju Podataka Terena"
+											"text": "Validacija Podataka Terena"
 										},
 										{
 											"_type": "LabelView",
@@ -7201,7 +7201,7 @@
 									"font": "Arial;13;0",
 									"left": 1108.5,
 									"top": 420.5,
-									"width": 176.6640625,
+									"width": 176,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF4UMgpId2pJ8o="
@@ -7360,12 +7360,12 @@
 										"$ref": "AAAAAAF4UMh/a+H08vg="
 									},
 									"font": "Arial;13;0",
-									"left": 1126,
-									"top": 450,
+									"left": 1119,
+									"top": 456,
 									"width": 55.65625,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": -4.4972094622327985,
+									"distance": 34.713109915419565,
 									"hostEdge": {
 										"$ref": "AAAAAAF4UMh/a+H2NBU="
 									},
@@ -10078,12 +10078,12 @@
 										"$ref": "AAAAAAF4UOJTcI9kr/g="
 									},
 									"font": "Arial;13;0",
-									"left": 404,
-									"top": 576,
+									"left": 471,
+									"top": 535,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": 3.456350328086252,
+									"distance": 63.953107821277925,
 									"hostEdge": {
 										"$ref": "AAAAAAF4UOJTcI9mz40="
 									},
@@ -10173,12 +10173,12 @@
 										"$ref": "AAAAAAF4UOJouZDFm+I="
 									},
 									"font": "Arial;13;0",
-									"left": 671,
-									"top": 436,
+									"left": 712,
+									"top": 471,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 1.5707963267948966,
-									"distance": 30,
+									"alpha": -0.926354534901537,
+									"distance": 26.92582403567252,
 									"hostEdge": {
 										"$ref": "AAAAAAF4UOJoupDHPHY="
 									},
@@ -10648,12 +10648,12 @@
 										"$ref": "AAAAAAF4UOLts5zGYdY="
 									},
 									"font": "Arial;13;0",
-									"left": 1191,
-									"top": 347,
+									"left": 1192,
+									"top": 360,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": 2.308038654229782,
-									"distance": 37.16180835212409,
+									"alpha": 2.006066817072006,
+									"distance": 30.01666203960727,
 									"hostEdge": {
 										"$ref": "AAAAAAF4UOLts5zIvbw="
 									},
@@ -10743,12 +10743,12 @@
 										"$ref": "AAAAAAF4UOL+/Z2p858="
 									},
 									"font": "Arial;13;0",
-									"left": 977,
-									"top": 339,
+									"left": 1000,
+									"top": 338,
 									"width": 53.49169921875,
 									"height": 13,
-									"alpha": -2.6660367248656534,
-									"distance": 72.40165743959182,
+									"alpha": -2.720353631159335,
+									"distance": 49.64876634922564,
 									"hostEdge": {
 										"$ref": "AAAAAAF4UOL+/p2rBhg="
 									},
@@ -11861,7 +11861,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Validaciju Podataka Terena",
+					"name": "Validacija Podataka Terena",
 					"ownedElements": [
 						{
 							"_type": "UMLExtend",
