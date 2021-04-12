@@ -8548,6 +8548,7 @@
 							},
 							"name": "username",
 							"visibility": "private",
+							"type": "",
 							"value": "ahkaram"
 						},
 						{
@@ -8558,6 +8559,7 @@
 							},
 							"name": "password",
 							"visibility": "private",
+							"type": "",
 							"value": "123ahkaram123"
 						},
 						{
@@ -8568,6 +8570,7 @@
 							},
 							"name": "email",
 							"visibility": "private",
+							"type": "",
 							"value": "ahkaram2@yahoo.com"
 						},
 						{
@@ -8578,6 +8581,7 @@
 							},
 							"name": "adress",
 							"visibility": "private",
+							"type": "",
 							"value": "Kramusici 125"
 						},
 						{
@@ -8588,6 +8592,7 @@
 							},
 							"name": "gender",
 							"visibility": "private",
+							"type": "",
 							"value": "Musko"
 						},
 						{
@@ -8651,9 +8656,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wns/RnDH/5I="
-					},
+					"classifier": "Korisnik",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -8663,6 +8666,7 @@
 							},
 							"name": "Ime",
 							"visibility": "private",
+							"type": "",
 							"value": "Ahmed"
 						},
 						{
@@ -8673,6 +8677,7 @@
 							},
 							"name": "prezime",
 							"visibility": "private",
+							"type": "",
 							"value": "Karamujic"
 						},
 						{
@@ -8683,6 +8688,7 @@
 							},
 							"name": "id",
 							"visibility": "private",
+							"type": "",
 							"value": "12355648245"
 						},
 						{
@@ -8692,6 +8698,7 @@
 								"$ref": "AAAAAAF4x4iIvmIRWlc="
 							},
 							"name": "registrovan",
+							"type": "",
 							"value": "true"
 						}
 					]
@@ -8819,9 +8826,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wnuD73EbDTY="
-					},
+					"classifier": "Vlasnik Terena",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -8831,6 +8836,7 @@
 							},
 							"name": "username",
 							"visibility": "private",
+							"type": "",
 							"value": "sanjonukac"
 						},
 						{
@@ -8841,6 +8847,7 @@
 							},
 							"name": "password",
 							"visibility": "private",
+							"type": "",
 							"value": "rus1234"
 						},
 						{
@@ -8851,6 +8858,7 @@
 							},
 							"name": "email",
 							"visibility": "private",
+							"type": "",
 							"value": "sanjohasl@gmail.com"
 						},
 						{
@@ -8861,6 +8869,7 @@
 							},
 							"name": "adress",
 							"visibility": "private",
+							"type": "",
 							"value": "bosanskih haslera 15"
 						},
 						{
@@ -8871,6 +8880,7 @@
 							},
 							"name": "gender",
 							"visibility": "private",
+							"type": "",
 							"value": "Musko"
 						},
 						{
@@ -8934,9 +8944,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wns/RnDH/5I="
-					},
+					"classifier": "Korisnik",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -8946,6 +8954,7 @@
 							},
 							"name": "ime",
 							"visibility": "private",
+							"type": "",
 							"value": "Sanjin"
 						},
 						{
@@ -8956,6 +8965,7 @@
 							},
 							"name": "prezime",
 							"visibility": "private",
+							"type": "",
 							"value": "Nukic"
 						},
 						{
@@ -8966,6 +8976,7 @@
 							},
 							"name": "id",
 							"visibility": "private",
+							"type": "",
 							"value": "123786464"
 						},
 						{
@@ -8975,6 +8986,7 @@
 								"$ref": "AAAAAAF4x4vhj2MVm2Y="
 							},
 							"name": "registrovan",
+							"type": "",
 							"value": "true"
 						}
 					]
@@ -9016,9 +9028,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wns/RnDH/5I="
-					},
+					"classifier": "Korisnik",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9028,6 +9038,7 @@
 							},
 							"name": "ime",
 							"visibility": "private",
+							"type": "",
 							"value": "Adna"
 						},
 						{
@@ -9038,6 +9049,7 @@
 							},
 							"name": "prezime",
 							"visibility": "private",
+							"type": "",
 							"value": "Medosevic"
 						},
 						{
@@ -9048,6 +9060,7 @@
 							},
 							"name": "id",
 							"visibility": "private",
+							"type": "",
 							"value": "123456784"
 						},
 						{
@@ -9057,6 +9070,7 @@
 								"$ref": "AAAAAAF4x640E2P9bn8="
 							},
 							"name": "registrovan",
+							"type": "",
 							"value": "true"
 						}
 					]
@@ -9068,9 +9082,7 @@
 						"$ref": "AAAAAAF4x4gRkGGNnms="
 					},
 					"name": "korisnik3",
-					"classifier": {
-						"$ref": "AAAAAAF4wnusHnFFiKM="
-					},
+					"classifier": "Admin",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9080,6 +9092,7 @@
 							},
 							"name": "username",
 							"visibility": "private",
+							"type": "",
 							"value": "adnica2"
 						},
 						{
@@ -9090,6 +9103,7 @@
 							},
 							"name": "password",
 							"visibility": "private",
+							"type": "",
 							"value": "adnica123"
 						},
 						{
@@ -9100,6 +9114,7 @@
 							},
 							"name": "email",
 							"visibility": "private",
+							"type": "",
 							"value": "amedosevic3@orange.fr"
 						},
 						{
@@ -9110,6 +9125,7 @@
 							},
 							"name": "adresa",
 							"visibility": "private",
+							"type": "",
 							"value": "Grbavica 14b"
 						},
 						{
@@ -9163,9 +9179,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wnu/oHFvvO0="
-					},
+					"classifier": "Teren",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9175,6 +9189,7 @@
 							},
 							"name": "Naziv",
 							"visibility": "private",
+							"type": "",
 							"value": "Vistafon grbavica"
 						},
 						{
@@ -9185,6 +9200,7 @@
 							},
 							"name": "opis",
 							"visibility": "private",
+							"type": "",
 							"value": "Najbolji stadion na nasem podrucju"
 						},
 						{
@@ -9195,6 +9211,7 @@
 							},
 							"name": "lokacija",
 							"visibility": "private",
+							"type": "",
 							"value": "Buca potok 67"
 						},
 						{
@@ -9205,6 +9222,7 @@
 							},
 							"name": "kapacitet",
 							"visibility": "private",
+							"type": "",
 							"value": "50"
 						},
 						{
@@ -9259,6 +9277,7 @@
 							},
 							"name": "cijena",
 							"visibility": "private",
+							"type": "",
 							"value": "35"
 						}
 					]
@@ -9301,9 +9320,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wnu/oHFvvO0="
-					},
+					"classifier": "Teren",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9313,6 +9330,7 @@
 							},
 							"name": "Naziv",
 							"visibility": "private",
+							"type": "",
 							"value": "Stadion Kovacici"
 						},
 						{
@@ -9323,6 +9341,7 @@
 							},
 							"name": "opis",
 							"visibility": "private",
+							"type": "",
 							"value": "Stadion Kovacici"
 						},
 						{
@@ -9333,6 +9352,7 @@
 							},
 							"name": "lokacija",
 							"visibility": "private",
+							"type": "",
 							"value": "Kovacici 24"
 						},
 						{
@@ -9343,6 +9363,7 @@
 							},
 							"name": "kapacitet",
 							"visibility": "private",
+							"type": "",
 							"value": "250"
 						},
 						{
@@ -9396,6 +9417,7 @@
 							},
 							"name": "cijena",
 							"visibility": "private",
+							"type": "",
 							"value": "60"
 						}
 					]
@@ -9407,9 +9429,7 @@
 						"$ref": "AAAAAAF4x4gRkGGNnms="
 					},
 					"name": "rezervacija1",
-					"classifier": {
-						"$ref": "AAAAAAF4wnvRqXGZhIE="
-					},
+					"classifier": "Rezervacija",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9419,6 +9439,7 @@
 							},
 							"name": "id",
 							"visibility": "private",
+							"type": "",
 							"value": "254789"
 						},
 						{
@@ -9485,9 +9506,7 @@
 						"$ref": "AAAAAAF4x4gRkGGNnms="
 					},
 					"name": "rezervacija2",
-					"classifier": {
-						"$ref": "AAAAAAF4wnvRqXGZhIE="
-					},
+					"classifier": "Rezervacija",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9594,9 +9613,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wnvpo3HDgnU="
-					},
+					"classifier": "Transakcija",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9606,6 +9623,7 @@
 							},
 							"name": "id",
 							"visibility": "private",
+							"type": "",
 							"value": "5697123"
 						},
 						{
@@ -9638,6 +9656,7 @@
 							},
 							"name": "cijena",
 							"visibility": "private",
+							"type": "",
 							"value": "70"
 						},
 						{
@@ -9648,6 +9667,7 @@
 							},
 							"name": "izvrsena",
 							"visibility": "private",
+							"type": "",
 							"value": "true"
 						}
 					]
@@ -9690,9 +9710,7 @@
 							}
 						}
 					],
-					"classifier": {
-						"$ref": "AAAAAAF4wnvpo3HDgnU="
-					},
+					"classifier": "Transakcija",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9702,6 +9720,7 @@
 							},
 							"name": "ide",
 							"visibility": "private",
+							"type": "",
 							"value": "789641"
 						},
 						{
@@ -9734,6 +9753,7 @@
 							},
 							"name": "cijena",
 							"visibility": "private",
+							"type": "",
 							"value": "60"
 						},
 						{
@@ -9744,6 +9764,7 @@
 							},
 							"name": "izvrsena",
 							"visibility": "private",
+							"type": "",
 							"value": "false"
 						}
 					]
@@ -9795,9 +9816,7 @@
 						}
 					],
 					"stereotype": "interface",
-					"classifier": {
-						"$ref": "AAAAAAF4wrrBpXgmv5g="
-					},
+					"classifier": "Termin",
 					"slots": [
 						{
 							"_type": "UMLSlot",
@@ -9862,9 +9881,7 @@
 						}
 					],
 					"stereotype": "interface",
-					"classifier": {
-						"$ref": "AAAAAAF4wrrBpXgmv5g="
-					},
+					"classifier": "Termin",
 					"slots": [
 						{
 							"_type": "UMLSlot",
