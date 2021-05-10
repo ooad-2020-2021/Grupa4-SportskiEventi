@@ -8,27 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kenan\\.nuget\\packages\\": {}
+    "C:\\Users\\Adnan Palavra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\source\\repos\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+      "projectUniqueName": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
       "projectName": "SportskiEventi",
-      "projectPath": "C:\\Users\\Kenan\\source\\repos\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
-      "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\source\\repos\\SportskiEventi\\SportskiEventi\\obj\\",
+      "projectPath": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+      "packagesPath": "C:\\Users\\Adnan Palavra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Adnan Palavra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net5.0": {
