@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Kenan\\.nuget\\packages\\": {}
+    "C:\\Users\\muhamed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\source\\repos\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+      "projectUniqueName": "C:\\Users\\muhamed\\Desktop\\ETF\\OOAD\\Sport Court\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
       "projectName": "SportskiEventi",
-      "projectPath": "C:\\Users\\Kenan\\source\\repos\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
-      "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\source\\repos\\SportskiEventi\\SportskiEventi\\obj\\",
+      "projectPath": "C:\\Users\\muhamed\\Desktop\\ETF\\OOAD\\Sport Court\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+      "packagesPath": "C:\\Users\\muhamed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\muhamed\\Desktop\\ETF\\OOAD\\Sport Court\\SportskiEventi\\SportskiEventi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\muhamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
