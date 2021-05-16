@@ -8,11 +8,16 @@
     "net5.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\muhamed\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Adnan Palavra\\.nuget\\packages\\": {}
+>>>>>>> ae22fca8a27727b7fa22b6758a4746f38552b4d9
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\muhamed\\Desktop\\ETF\\OOAD\\Sport Court\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
       "projectName": "SportskiEventi",
       "projectPath": "C:\\Users\\muhamed\\Desktop\\ETF\\OOAD\\Sport Court\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
@@ -21,14 +26,23 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muhamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+      "projectName": "SportskiEventi",
+      "projectPath": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+      "packagesPath": "C:\\Users\\Adnan Palavra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Adnan Palavra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ae22fca8a27727b7fa22b6758a4746f38552b4d9
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "net5.0": {

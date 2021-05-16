@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "VJvKcJc/D2Em+h0a/OmYUy67We2s9pyH7P9I7gxOusmyJU4U7MlHgQzn2yjO3b/e2X+vVmWZCtEvdxcVqLICgg==",
   "success": true,
   "projectFilePath": "C:\\Users\\muhamed\\Desktop\\ETF\\OOAD\\Sport Court\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+=======
+  "dgSpecHash": "3hSQmRYTnVkGfUCIU2QfTQl+/5+uJZd5BZ1NfLiVCHQ6yrB9q0LNJqBMYs4vyb7VuLSNOMXUJD0Da6Xctuomlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adnan Palavra\\Documents\\GitHub\\Grupa4-SportskiEventi\\SportskiEventi\\SportskiEventi\\SportskiEventi.csproj",
+>>>>>>> ae22fca8a27727b7fa22b6758a4746f38552b4d9
   "expectedPackageFiles": [],
   "logs": []
 }
